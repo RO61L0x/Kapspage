@@ -1,2 +1,2 @@
 # DISCUSSIONS RULES | REGLAS DE DISCUSIONES
--# (Only for Github codespace about this project)
+*__(Only for Github codespace about this project)__*
