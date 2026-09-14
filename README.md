@@ -1,6 +1,6 @@
 # INFORMATION | INFORMACIÓN
 ---
-## 🇺🇸 ENGLISH:
+## ENGLISH:
 > - This is only a __practice__ for __html__ because i have __thirteen__ years old and not know many knowledge of __scripting__.
 > - For this project no use __Chatgpt, Gemini, Copilot, Deepseek, Dola AI__ or other things. Only use __Youtube Tutorials__, __Visual Studio Code__ and __Github__.
 > - Only use this page for my __Discord__ which is "im_kaps."
